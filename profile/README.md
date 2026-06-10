@@ -26,4 +26,5 @@ Building autonomous drone systems focusing on competing at the AEAC National Stu
 
 ## Contact
 - Email: `admin@valiantaerotech.com`
+- Email: `devansh@valiantaerotech.com`
 - Instagram: [Valiant Aerotech](https://www.instagram.com/valiantaerotech)
