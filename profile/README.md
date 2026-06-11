@@ -1,29 +1,35 @@
 # Valiant Aerotech
 
-Building autonomous drone systems focusing on competing at the AEAC National Student UAS Competition each year.
+Student UAS team building autonomous systems for the [AEAC National Student UAS Competition](https://www.aerialevolution.ca/annual-student-competition/).
 
 ## What we do
-- Designing custom drones suitable for our use cases.
-- Autonomous flight software.
-- Embedded systems and hardware integration.
-- Ground control and tooling.
-- Testing, documenting, and iteration.
+
+- Design and build custom multirotor platforms for competition tasks
+- Autonomous flight software (perception, navigation, mission control)
+- Embedded systems and hardware integration
+- Ground control tooling, testing, and field iteration
+
+## Fleet
+
+| Platform | Role |
+|----------|------|
+| **Vion** | Fire suppression (GCS-offload autonomy) |
+| **Vivi** | Building survey and target localization |
+| **Vulcan 2** | Heavy lifter / Vivi transport |
 
 ## Teams
-- **Software** - Autonomy, mission planning, computer vision, and ground control for detection, delivery, and suppression tasks.
-- **Electrical** - Power distribution, propulsion, sensors, and safety systems that keep the fleet reliable under competition and field conditions.
-- **Mechanical** - Airframes, payload integration, and structural systems for modular firefighting platforms built to operate in urban corridors.
 
-## Current Focus
-- Setting up our software workflow
-- Improving documentation and onboarding.
-- Building reliable systems for competition.
+- **Software** - Autonomy, CV, GCS missions, and integration for detection, delivery, and suppression
+- **Electrical** - Power, propulsion, sensors, and safety systems for reliable field operation
+- **Mechanical** - Airframes, payload integration, and structures for urban firefighting scenarios
 
-## Join / Contribute
-- New members are added periodically.
-- Plese follow team communication channels.
-- All code changes go through pull requests.
+## Contribute
+
+- Follow team communication channels for assignments and field tests
+- All code changes via **pull requests** (no direct pushes to `main`)
+- Open work is tracked in GitHub Issues
 
 ## Contact
-- Admin Email: `admin@valiantaerotech.com`
-- Instagram: [Valiant Aerotech](https://www.instagram.com/valiantaerotech)
+
+- Email: `admin@valiantaerotech.com`
+- Instagram: [@valiantaerotech](https://www.instagram.com/valiantaerotech)
