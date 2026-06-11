@@ -35,27 +35,19 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/Valiant-Aerotech/.github/main/assets/Vion.jpg" alt="Vion fire suppression platform" width="640" />
 </p>
-<p align="center"><sub><em>Vion — Task 2 fire suppression platform</em></sub></p>
+<p align="center"><sub><em>Vion - Task 2 fire suppression platform.</em></sub></p>
 
 ---
 
 ## Teams
 
-- **Software** — Autonomy, CV, GCS missions, and integration for detection, delivery, and suppression
-- **Electrical** — Power, propulsion, sensors, and safety systems for reliable field operation
-- **Mechanical** — Airframes, payload integration, and structures for urban firefighting scenarios
+- **Software** - Autonomy, CV, GCS missions, and integration for detection, delivery, and suppression
+- **Electrical** - Power, propulsion, sensors, and safety systems for reliable field operation
+- **Mechanical** - Airframes, payload integration, and structures for urban firefighting scenarios
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Valiant-Aerotech/.github/main/assets/Team-with-flag.jpg" alt="Valiant Aerotech team" width="720" />
 </p>
-
----
-
-## Contribute
-
-- Follow team communication channels for assignments and field tests
-- All code changes via **pull requests** (no direct pushes to `main`)
-- Open tasks: [AEAC2027 Issues](https://github.com/Valiant-Aerotech/AEAC2027/issues)
 
 ---
 
